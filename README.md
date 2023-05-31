@@ -106,7 +106,7 @@ Install this project with the latest version of Git and a code editor.
 ### Usage
 
 To run the project, execute the following command:
-
+> N/A
 ### Deployment
 
 You can deploy this project using:

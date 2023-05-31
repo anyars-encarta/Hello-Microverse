@@ -130,4 +130,5 @@ dist
 .pnp.*
 
 # md file
+/node_modules
 test.md
